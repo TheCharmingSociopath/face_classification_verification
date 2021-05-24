@@ -1,0 +1,8 @@
+Feat./Modl.,Red. Dim.,Error,Accu.,f1-s.
+VGG/MLP,4096,0.13,0.87,0.87
+VGG/Logistic Regression,4096,0.12,0.88,0.88
+VGG/SVM,4096,0.13,0.87,0.87
+ResNet/MLP,2048,0.06,0.94,0.94
+ResNet/Logistic Regression,2048,0.07,0.93,0.93
+ResNet/SVM,2048,0.07,0.93,0.93
+ResNet/D-Tree,2048,0.13,0.87,0.87

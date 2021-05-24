@@ -1,0 +1,5 @@
+Feat./Modl.,Red. Dim.,Error,Accu.,f1-s.
+ResNet/MLP,2048,0.04,0.96,0.96
+ResNet/Logistic Regression,2048,0.04,0.96,0.96
+ResNet/SVM,2048,0.04,0.96,0.96
+ResNet/D-Tree,2048,0.08,0.92,0.92

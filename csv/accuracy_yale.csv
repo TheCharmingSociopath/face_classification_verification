@@ -1,0 +1,7 @@
+Feat./Modl.,Red. Dim.,Error,Accu.,f1-s.
+LDA/MLP,10,0.02,0.98,0.98
+LDA/Logistic Regression,10,0.0,1.0,1.0
+Kernel LDA/Logistic Regression,10,0.0,1.0,1.0
+ResNet/MLP,2048,0.02,0.98,0.98
+ResNet/Logistic Regression,2048,0.02,0.98,0.98
+ResNet/SVM,2048,0.02,0.98,0.98
